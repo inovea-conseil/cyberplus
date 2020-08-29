@@ -1,2 +1,2 @@
-# cyberplus
-Module Dolibarr pour le paiement par carte de crédit avec la solution de paiement CyberPlus
+# CyberPlus
+Module Dolibarr de paiement par carte de crédit avec la solution de paiement CyberPlus (Banque Populaire)
